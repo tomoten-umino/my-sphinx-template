@@ -4,7 +4,7 @@
 - This template uses markdown format and the theme "Read the Docs theme for Sphinx". Please install it with the following command.
 
 ```shell
-$ pip install sphinx_rtd_theme
+$ pip install sphinx myst-parser sphinx_rtd_theme
 ```
 
 ## Building
@@ -14,3 +14,5 @@ $ pip install sphinx_rtd_theme
 $ make html
 ```
 
+## Deployment
+- Store the generated files under the html folder under the public folder of the http server.
