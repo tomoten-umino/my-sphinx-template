@@ -19,4 +19,5 @@ Table of Contents
 
    contents/Page1
    contents/Page2
+   contents/container/*
 
