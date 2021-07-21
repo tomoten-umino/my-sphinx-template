@@ -19,4 +19,4 @@ $ make html
 ```
 
 ## Deployment
-- Store the generated files under the html folder under the public folder of the http server.
+- Store the products of the http directory under the public directory of the http server.
